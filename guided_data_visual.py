@@ -92,6 +92,6 @@ plt.show()
 # Future steps: 
 # - Investigate more granular data points such as specific events, economic policies, or geopolitical events affecting exchange rates.
 # - Consider incorporating machine learning techniques for predictive analysis on future exchange rates.
-
+# - Formulaate and solve an optimization problem for this project (idea is written on the notes) 
 
 
